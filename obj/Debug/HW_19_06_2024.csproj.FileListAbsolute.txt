@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_19_06_2024\bin\Debug\HW_19_06_2024.exe.config
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_19_06_2024\bin\Debug\HW_19_06_2024.exe
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_19_06_2024\bin\Debug\HW_19_06_2024.pdb
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_19_06_2024\obj\Debug\HW_19_06_2024.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_19_06_2024\obj\Debug\HW_19_06_2024.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_19_06_2024\obj\Debug\HW_19_06_2024.exe
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_19_06_2024\obj\Debug\HW_19_06_2024.pdb
